@@ -8,7 +8,7 @@ export const Logo = () => {
       height="400"
       style="width: 100%; height: 100%;"
     >
-      <title>nebula</title>
+      <title>TPS</title>
       <g id="svgg">
         <path
           id="path0"
